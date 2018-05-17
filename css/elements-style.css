@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+// buttons
+
+#login-button {
+  background-color: grey;
+  padding: 10px;
+}
